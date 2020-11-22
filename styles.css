@@ -1,0 +1,44 @@
+body {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+h1 {
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 6vh;
+  
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5vh;
+}
+
+#icon-container {
+    display: inline;
+}
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4vh; 
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4vh;  
+}
+
+input {
+    
+    margin: 2rem;
+    width: 20%;
+}
+
+input:hover {
+    
+    border: solid black;
+}
+
+#playAgainBtn {
+    font-size: 5vh;
+    font-family: 'Courier New', Courier, monospace;
+    visibility: hidden;
+    
+}
